@@ -3,8 +3,6 @@ A hardware to feed pets integrated with Alexa
 
 You can access the Code [HERE](/Code)
 
-<img src="" width="200" height="200">
-
 You can access the 3D Models [HERE](/3DModel_For_Printer)
 
 <img src="/3DModel_For_Printer/_Images/Feeder_arm.png" width="200" height="200">
