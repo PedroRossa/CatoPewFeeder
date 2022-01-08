@@ -3,6 +3,10 @@ A hardware to feed pets integrated with Alexa
 
 You can access the Code [HERE](/Code)
 
+##Code Usage
+
+Open the WifiCredentials.h and set your network + passowrd.
+
 You can access the 3D Models [HERE](/3DModel_For_Printer)
 
 <img src="/3DModel_For_Printer/_Images/Feeder_arm.png" width="200" height="200">
